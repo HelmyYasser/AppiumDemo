@@ -14,8 +14,11 @@ A modern, highly-structured mobile test automation framework for Android using *
 
 Below is the video recording showcasing the full automated test execution on the Android emulator:
 
+https://github.com/user-attachments/assets/0c46b0fa-6284-46f1-864d-931f23a7632d
+
+
 <div align="center">
-  <video src="https://github.com/HelmyYasser/AppiumDemo/blob/main/recording.mp4" width="700" controls poster="apps/Android.SauceLabs.Mobile.Sample.app.2.6.0.apk">
+  <video src="https://github.com/user-attachments/assets/0c46b0fa-6284-46f1-864d-931f23a7632d" width="700" controls poster="apps/Android.SauceLabs.Mobile.Sample.app.2.6.0.apk">
     Your browser does not support the video tag. You can view the file directly: <a href="recording.mp4">recording.mp4</a>
   </video>
 </div>
