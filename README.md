@@ -15,14 +15,17 @@ A modern, highly-structured mobile test automation framework for Android using *
 Below is the video recording showcasing the full automated test execution on the Android emulator:
 
 <div align="center">
-  <video src="" width="700" controls poster="apps/Android.SauceLabs.Mobile.Sample.app.2.6.0.apk">
+  <video src="https://github.com/HelmyYasser/AppiumDemo/blob/main/recording.mp4" width="700" controls poster="apps/Android.SauceLabs.Mobile.Sample.app.2.6.0.apk">
     Your browser does not support the video tag. You can view the file directly: <a href="recording.mp4">recording.mp4</a>
   </video>
 </div>
 
-> [!NOTE]
-> **Video File:**
-> The video is saved in the root directory as `recording.mp4` (~24.6 MB) and is ready to be committed and pushed directly to GitHub.
+> [!IMPORTANT]
+> **To make the video play inline on GitHub:**
+> 1. Create a draft Issue, Pull Request, or Discussion on your repository.
+> 2. Drag and drop your `recording.mp4` file into the description/comment box.
+> 3. Once uploaded, GitHub will generate a URL (e.g., `https://github.com/user-attachments/assets/xxxxxxxx`).
+> 4. Replace `YOUR_GITHUB_UPLOADED_VIDEO_URL` in the `src` attribute of the `<video>` tag above with that generated URL.
 
 ---
 
