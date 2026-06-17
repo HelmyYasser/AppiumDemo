@@ -15,14 +15,23 @@ A modern, highly-structured mobile test automation framework for Android using *
 Below is the video recording showcasing the full automated test execution on the Android emulator:
 
 <div align="center">
-  <video src="recording.mp4" width="700" controls poster="apps/Android.SauceLabs.Mobile.Sample.app.2.6.0.apk">
-    Your browser does not support the video tag. You can view the file directly: <a href="recording.mp4">recording.mp4</a>
+  <video src="Appium%20Demo.mp4" width="700" controls poster="apps/Android.SauceLabs.Mobile.Sample.app.2.6.0.apk">
+    Your browser does not support the video tag. You can view the file directly: <a href="Appium%20Demo.mp4">Appium Demo.mp4</a>
   </video>
 </div>
 
-> [!TIP]
-> **How to replace the recording:**
-> Simply save your screen recording as `recording.mp4` in the root directory of this project, and it will be rendered in compatible markdown readers and IDEs.
+> [!NOTE]
+> **Video File:**
+> The video is saved in the root directory as `Appium Demo.mp4`.
+
+> [!WARNING]
+> **GitHub File Size Limit (100MB):**       
+> The copied video file is **101.1 MB**, which exceeds GitHub's default **100 MB single file push limit**. If you attempt a standard `git push`, it will be rejected.
+> 
+> To push this successfully to GitHub, you can:
+> 1. Use **Git LFS (Large File Storage)**: Run `git lfs track "*.mp4"` before committing.
+> 2. Compress the video below 100 MB using a video compressor.
+> 3. Upload the video directly to GitHub (e.g. inside a GitHub Issue or Release) and use the generated URL in the `src="..."` attribute above.
 
 ---
 
