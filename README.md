@@ -22,16 +22,7 @@ Below is the video recording showcasing the full automated test execution on the
 
 > [!NOTE]
 > **Video File:**
-> The video is saved in the root directory as `Appium Demo.mp4`.
-
-> [!WARNING]
-> **GitHub File Size Limit (100MB):**       
-> The copied video file is **101.1 MB**, which exceeds GitHub's default **100 MB single file push limit**. If you attempt a standard `git push`, it will be rejected.
-> 
-> To push this successfully to GitHub, you can:
-> 1. Use **Git LFS (Large File Storage)**: Run `git lfs track "*.mp4"` before committing.
-> 2. Compress the video below 100 MB using a video compressor.
-> 3. Upload the video directly to GitHub (e.g. inside a GitHub Issue or Release) and use the generated URL in the `src="..."` attribute above.
+> The video is saved in the root directory as `recording.mp4` (~24.6 MB) and is ready to be committed and pushed directly to GitHub.
 
 ---
 
