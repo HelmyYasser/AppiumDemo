@@ -15,7 +15,7 @@ A modern, highly-structured mobile test automation framework for Android using *
 Below is the video recording showcasing the full automated test execution on the Android emulator:
 
 <div align="center">
-  <video src="recording.mp4" width="700" controls poster="apps/Android.SauceLabs.Mobile.Sample.app.2.6.0.apk">
+  <video src="" width="700" controls poster="apps/Android.SauceLabs.Mobile.Sample.app.2.6.0.apk">
     Your browser does not support the video tag. You can view the file directly: <a href="recording.mp4">recording.mp4</a>
   </video>
 </div>
